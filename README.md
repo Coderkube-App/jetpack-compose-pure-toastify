@@ -63,7 +63,7 @@ Add the following to your application module's `build.gradle.kts` (or `build.gra
 
 ```kotlin
 dependencies {
-    implementation("com.github.Coderkube-App.jetpack-compose-pure-toastify:1.0.1")
+    implementation("com.github.Coderkube-App:jetpack-compose-pure-toastify:1.0.1")
 }
 ```
 
