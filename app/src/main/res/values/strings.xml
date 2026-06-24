@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">CustomInfoBar</string>
+
+    <string name="info_bar_settings">Info Bar Settings</string>
+    <string name="compose_info_bar_demo">ComposeInfoBar Demo</string>
+    <string name="duration">Duration</string>
+    <string name="animation">Animation Type</string>
+    <string name="direction">Direction</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="show_default_info_bar">Show Default ComposeInfoBar</string>
+    <string name="hey_user_good_morning">Hey user, Good morning</string>
+    <string name="we_hope_you_are_doing_well_in_your_life">We hope you are doing well in your life.</string>
+    <string name="show_error_info_bar">Show Error ComposeInfoBar</string>
+    <string name="error">Error!!</string>
+    <string name="failed_to_fetch_data_from_the_server">Failed to fetch data from the server.</string>
+    <string name="show_warning_info_bar">Show Warning ComposeInfoBar</string>
+    <string name="trying_to_access_sensitive_information">Trying to access sensitive information.</string>
+    <string name="warning">Warning!!</string>
+    <string name="show_success_info_bar">Show Success ComposeInfoBar</string>
+    <string name="success">Success!!</string>
+    <string name="successfully_fetched_network_data">Successfully fetched network data.</string>
+    <string name="show_annotated_text_info_bar">Show Annotated Text Info Bar</string>
+    <string name="drawable_demo_using_svg">Drawable Demo Using SVG</string>
+    <string name="gradient_demo_using_brush">Gradient Demo using brush</string>
+    <string name="drawable_demo_using_png">Drawable demo using PNG</string>
+    <string name="show_composeinfobar_with_action">Show ComposeInfoBar with action</string>
+    <string name="composeinfobar_with_action">InfoBar with Action</string>
+    <string name="action_clicked">Action Clicked</string>
+    <string name="info_bar_dismissed_successfully">Info Bar Dismissed Successfully!!</string>
+    <string name="swipe_to_dismiss">Swipe to dismiss</string>
+    <string name="network_state_observation">Network state observation</string>
+    <string name="slide_to_perform_action">Slide to perform action</string>
+    <string name="slide_info_bar_title">Slide Info Bar Demo</string>
+    <string name="slide_complete">Slide Complete</string>
+</resources>
